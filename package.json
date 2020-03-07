@@ -1,0 +1,22 @@
+{
+  "name": "interval",
+  "version": "1.0.0",
+  "description": "for preparing a master list of all musical pitch intervals",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmloegcmluin/interval.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmloegcmluin/interval/issues"
+  },
+  "homepage": "https://github.com/cmloegcmluin/interval#readme",
+  "devDependencies": {
+    "csv-parse": "^4.8.8"
+  }
+}
